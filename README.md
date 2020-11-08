@@ -10,12 +10,19 @@ With 81 explanatory variables describing almost every aspect of residential home
 Iowa, this competition challenges the data science community to predict the final price of each home.
 ## Content
 •	Data cleaning and filling up missing values
+
 •	Basic feature engineering
+
 •	Dummy variable all categorical variables
+
 •	Finding correlation between the variables
+
 •	Normalize the target variable
+
 •	Skewness data transform
+
 •	Cross validation 
+
 •	apply Linear Regression and Random Forest Regressor model.
 
 
