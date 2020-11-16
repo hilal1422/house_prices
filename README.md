@@ -10,8 +10,8 @@
 
 ## Introduction<a name="Introduction"></a>
 
-I am trying to predict for how much money each house 
-In this mainly we will look at data exploration and data cleaning. we will use Linear Regression to train our model.
+The average sales price of new homes sold in the U.S. is US$388,000. The house price mainly dependent on Location, size and condition ... these factors influence a home’s value.
+The goal of this project is to predict house prices using one basic machine Linear Regression, and Random Forest , in this mainly we will look at data exploration and data cleaning
 
 ## Project Motivation<a name="motivation"></a>
 If you’re going to sell a house, you need to know what price tag to put on it, for this purpose I wrote a regression algorithm to predict home prices
