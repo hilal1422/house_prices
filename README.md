@@ -1,11 +1,11 @@
-# Prediction House Prices With Linear Regression
+# Predicting House Prices Pith Machine Learning
 
 ### Table of Contents
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
-3. [## Data](#data)
-4. [## Content](#Content)
+3. [Data](#data)
+4. [Content](#Content)
 5. [Results](#results)
 
 ## Introduction<a name="Introduction"></a>
